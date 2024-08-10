@@ -99,45 +99,9 @@ function ContainerModal({ modal, parameterForm, transactionType, pair }) {
   //and autopay address
   useEffect(() => {
     if (!user || !user.currentUser) return
-    if (user.currentUser.chainId === 80001) {
-      setTellorAddress(tellorAddressMumbai)
-      setAutopayAddress(autopayAddressMumbai)
-    } else if (user.currentUser.chainId === 137) {
-      setTellorAddress(tellorAddressPolygon)
-      setAutopayAddress(autopayAddressPolygon)
-    } else if (user.currentUser.chainId === 1) {
-      setTellorAddress(tellorAddressMainnet)
-      setAutopayAddress(autopayEthMainnet)
-    } else if (user.currentUser.chainId === 314) {
-      setTellorAddress(tellorAddressFileMain)
-      setAutopayAddress(autopayFileMain)
-    } else if (user.currentUser.chainId === 369) {
+    if (user.currentUser.chainId === 369) {
       setTellorAddress(tellorAddressPulsechain)
       setAutopayAddress(autopayPulsechain)
-    } else if (user.currentUser.chainId === 314159) {
-      setTellorAddress(tellorAddressCalibration)
-      setAutopayAddress(autopayCalibration)
-    } else if (user.currentUser.chainId === 11155111) {
-      setTellorAddress(tellorAddressSepolia)
-      setAutopayAddress(autopaySepolia)
-    } else if (user.currentUser.chainId === 100) {
-      setTellorAddress(tellorAddressGnosismain)
-      setAutopayAddress(autopayGnosismain)
-    } else if (user.currentUser.chainId === 10200) {
-      setTellorAddress(tellorAddressChiado)
-      setAutopayAddress(autopayChiado)
-    } else if (user.currentUser.chainId === 10) {
-      setTellorAddress(tellorAddressOpmain)
-      setAutopayAddress(autopayOpmain)
-    } else if (user.currentUser.chainId === 420) {
-      setTellorAddress(tellorAddressOptest)
-      setAutopayAddress(autopayOptest)
-    } else if (user.currentUser.chainId === 42161) {
-      setTellorAddress(tellorAddressArbone)
-      setAutopayAddress(autopayArbone)
-    } else if (user.currentUser.chainId === 421613) {
-      setTellorAddress(tellorAddressArbtest)
-      setAutopayAddress(autopayArbtest)
     } else {
       setTellorAddress(null)
       setAutopayAddress(null)
