@@ -20,31 +20,7 @@ import { ErrorContext } from '../../contexts/Error'
 import { ApolloProvider, ApolloClient, InMemoryCache } from '@apollo/client'
 //Utils
 import {
-  tellorAddressPolygon,
-  tellorAddressMumbai,
-  tellorAddressMainnet,
-  tellorAddressFileMain,
-  tellorAddressCalibration,
-  tellorAddressSepolia,
-  tellorAddressGnosismain,
-  tellorAddressChiado,
-  tellorAddressOpmain,
-  tellorAddressOptest,
-  tellorAddressArbone,
-  tellorAddressArbtest,
   tellorAddressPulsechain,
-  autopayAddressPolygon,
-  autopayAddressMumbai,
-  autopayEthMainnet,
-  autopayFileMain,
-  autopayCalibration,
-  autopaySepolia,
-  autopayGnosismain,
-  autopayChiado,
-  autopayOpmain,
-  autopayOptest,
-  autopayArbone,
-  autopayArbtest,
   autopayPulsechain
 } from '../../utils/helpers'
 
