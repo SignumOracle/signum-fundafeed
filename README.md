@@ -29,7 +29,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed">
-    <img src="/public/Signum_TRB.svg" alt="Logo" width="80" height="80">
+    <img src="/public/favicon.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">Signum Fund A Feed</h2>
@@ -72,8 +72,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Product Name Screen Shot][screenshot]](https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed)
 
 ### Built With
 
