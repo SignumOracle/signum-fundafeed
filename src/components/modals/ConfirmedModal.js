@@ -41,7 +41,7 @@ function ConfirmedModal({ parameterForm, closeModal }) {
         Your price feed has been setup and funded.
       </p>
       <a
-        href="https://tellor.io/data-feed"
+        href="https://signum.win/data-feed"
         target="_blank"
         rel="noreferrer noopener"
         className="CheckLivenessModalButton"

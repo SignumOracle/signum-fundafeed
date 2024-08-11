@@ -4,15 +4,15 @@ import "../../styles/frontendBoilerplate/Footer.css"
 const links = [
   {
     title: 'Contact',
-    link: 'https://linktr.ee/Tellor'
+    link: 'https://linktr.ee/Signum'
   },  
   {
     title: 'Docs',
-    link: 'https://tellor.io/docs/'
+    link: 'https://signum.win/docs/'
   },  
   {
     title: 'Discord',
-    link: 'https://discord.com/invite/kaMenz4ZVw'
+    link: ''
   },  
 ]
 

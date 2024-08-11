@@ -36,7 +36,7 @@ function ConfirmOneTimeTipModal({ parameterForm, closeModal, txnHash, pair }) {
         Your tip has been sent.
       </p>
       <a
-        href="https://tellor.io/data-feed"
+        href="https://signum.win/data-feed"
         target="_blank"
         rel="noreferrer noopener"
         className="CheckLivenessModalButton"

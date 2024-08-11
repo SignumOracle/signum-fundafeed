@@ -13,8 +13,8 @@ function Nav() {
   return (
     <div className="Nav">
       <a
-        href="https://tellor.io/"
-        alt="https://tellor.io/"
+        href="https://signum.win/"
+        alt="https://signum.win/"
         rel="noopener noreferrer"
       >
         <Tellor className="TellorLogo" />
