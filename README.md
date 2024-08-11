@@ -28,8 +28,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed">
-    <img src="/public/favicon.jpg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed">
+    <img src="/public/Signum_TRB.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">Signum Fund A Feed</h2>
@@ -38,9 +38,9 @@
     This project allows users to interact with the Signum Autopay contract, so that data users can more easily set up a consistent stream of incentives/rewards for reporters who consistently provide the desired data. 
     <br />
     <br />
-    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed/issues">Report Bug</a>
+    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed/issues">Request Feature</a>
+    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues">Request Feature</a>
   </p>
 </p>
 
@@ -73,7 +73,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][screenshot]](https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed)
+[![Product Name Screen Shot][screenshot]](https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed)
 
 ### Built With
 
@@ -111,7 +111,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo in your preferred directory
    ```sh
-   git clone https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed.git
+   git clone https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed.git
    ```
 2. Install NPM packages
    ```sh
@@ -134,7 +134,7 @@ To get a local copy up and running follow these simple steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -163,7 +163,7 @@ Signum.win
 - [Documentation](https://docs.signum.win/signum/)
 - [Twitter]()
 - [Discord]()
-- [GitHub]()
+- [GitHub](https://github.com/signum-win)
 - [YouTube]()
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -179,4 +179,4 @@ Signum.win
 [issues-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues
 [license-shield]: https://img.shields.io/github/license/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
 [license-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/blob/main/LICENSE.txt
-[screenshot]: https://user-images.githubusercontent.com/21370350/165885865-40afec40-8475-4dde-865b-0b2ff79b512d.png
+[screenshot]: https://user-images.githubusercontent.com/21370350/165884467-2fbc0346-3282-4837-aa98-90ff5307aea0.png
