@@ -165,3 +165,18 @@ Signum.win
 - [Discord]()
 - [GitHub]()
 - [YouTube]()
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/tellor-io/fundafeed.svg?style=for-the-badge
+[contributors-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tellor-io/fundafeed.svg?style=for-the-badge
+[forks-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/network/members
+[stars-shield]: https://img.shields.io/github/stars/tellor-io/fundafeed.svg?style=for-the-badge
+[stars-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tellor-io/fundafeed.svg?style=for-the-badge
+[issues-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues
+[license-shield]: https://img.shields.io/github/license/tellor-io/fundafeed.svg?style=for-the-badge
+[license-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/blob/main/LICENSE.txt
+[screenshot]: https://user-images.githubusercontent.com/21370350/165885865-40afec40-8475-4dde-865b-0b2ff79b512d.png
