@@ -28,19 +28,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tellor-io/fundAFeed">
-    <img src="/public/Tellor_TRB.svg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed">
+    <img src="/public/favicon.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h2 align="center">Tellor Fund A Feed</h2>
+  <h2 align="center">Signum Fund A Feed</h2>
 
   <p align="center">
-    This project allows users to interact with the Tellor Autopay contract, so that data users can more easily set up a consistent stream of incentives/rewards for reporters who consistently provide the desired data. 
+    This project allows users to interact with the Signum Autopay contract, so that data users can more easily set up a consistent stream of incentives/rewards for reporters who consistently provide the desired data. 
     <br />
     <br />
-    <a href="https://github.com/tellor-io/fundAFeed/issues">Report Bug</a>
+    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tellor-io/fundAFeed/issues">Request Feature</a>
+    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues">Request Feature</a>
   </p>
 </p>
 
@@ -73,7 +73,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][screenshot]](https://github.com/tellor-io/fundAFeed)
+[![Product Name Screen Shot][screenshot]](https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed)
 
 ### Built With
 
@@ -111,7 +111,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo in your preferred directory
    ```sh
-   git clone https://github.com/tellor-io/fundAFeed.git
+   git clone https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed.git
    ```
 2. Install NPM packages
    ```sh
@@ -134,7 +134,7 @@ To get a local copy up and running follow these simple steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/tellor-io/fundAFeed/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Tellor.io
+Signum.win
 
 - [Documentation](https://docs.signum.win/signum/)
 - [Twitter]()
