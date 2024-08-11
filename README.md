@@ -169,14 +169,14 @@ Signum.win
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/AvantgardeBlockchainSolutions/signum-signum-fundafeed.svg?style=for-the-badge
-[contributors-url]: https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
+[contributors-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
-[forks-url]: https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed/network/members
+[forks-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/network/members
 [stars-shield]: https://img.shields.io/github/stars/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
-[stars-url]: https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed/stargazers
+[stars-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/stargazers
 [issues-shield]: https://img.shields.io/github/issues/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
-[issues-url]: https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed/issues
+[issues-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues
 [license-shield]: https://img.shields.io/github/license/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
-[license-url]: https://github.com/AvantgardeBlockchainSolutions/signum-signum-fundafeed/blob/main/LICENSE.txt
+[license-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/blob/main/LICENSE.txt
 [screenshot]: https://user-images.githubusercontent.com/21370350/165885865-40afec40-8475-4dde-865b-0b2ff79b512d.png
