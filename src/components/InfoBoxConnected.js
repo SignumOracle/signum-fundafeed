@@ -19,8 +19,8 @@ function InfoBoxConnected() {
           
           <p>
   {user.currentUser.balances && user.currentUser.balances.trb
-    ? `Wallet Balance: ${user.currentUser.balances.trb} TRB`
-    : `You hold 0 TRB`}
+    ? `Wallet Balance: ${user.currentUser.balances.trb} SRB`
+    : `You hold 0 SRB`}
           </p>
           
         </div>
