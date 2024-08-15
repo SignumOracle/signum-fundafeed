@@ -9,7 +9,6 @@ import { ErrorContext } from '../../contexts/Error'
 //Utils
 import tellorTokenPolygonABI from '../../utils/tellorTokenPolygonABI.json'
 import { dateHelper } from '../../utils/time'
-import {gas} from '../../utils/estimateGas'
 //Components
 import Loader from '../Loader'
 
@@ -89,7 +88,7 @@ function ApproveTokenModal({
           autopayAddy,
           user.currentUser.web3.utils.toWei(parameterForm.fundAmount.toString())
         )
-        .send({ from: user.currentUser.address,  ...(await gas()) })
+        .send({ from: user.currentUser.address })
         .then((res) => {
           setOfficialDataFeed(false)
           navigate('/fundfeed', {

@@ -7,7 +7,6 @@ import { UserContext } from '../../contexts/User'
 import { ErrorContext } from '../../contexts/Error'
 //Utils
 import autopayABI from '../../utils/autopayABI.json'
-import {gas} from '../../utils/estimateGas'
 //Components
 import Loader from '../Loader'
 
@@ -44,7 +43,7 @@ function OneTimeTipModal({
           amount,
           spotPriceData.queryData,
         )
-        .send({ from: user.currentUser.address, ...(await gas()) })
+        .send({ from: user.currentUser.address })
         .then((res) => {
           setOneTimeTipTxnHash(res.transactionHash)
           setLoading(false)

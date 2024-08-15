@@ -8,7 +8,6 @@ import { ErrorContext } from '../../contexts/Error'
 import { GraphContext } from '../../contexts/Graph'
 //Utils
 import tellorTokenPolygonABI from '../../utils/tellorTokenPolygonABI.json'
-import {gas} from '../../utils/estimateGas'
 //Components
 import Loader from '../Loader'
 
@@ -89,7 +88,7 @@ function ApproveOneTimeTipTokenModal({
           autopayAddy,
           user.currentUser.web3.utils.toWei(parameterForm.fundAmount.toString())
         )
-        .send({ from: user.currentUser.address,  ...(await gas()) })
+        .send({ from: user.currentUser.address })
         .then((res) => {
           setOfficialDataFeed(false)
           navigate('/OneTimeTip', {

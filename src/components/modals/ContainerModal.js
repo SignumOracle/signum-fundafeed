@@ -114,8 +114,6 @@ function ContainerModal({ modal, parameterForm, transactionType, pair }) {
           {error.error ? (
             <ErrorModal />
           ) : (
-            <ApolloProvider client={apolloClient}>
-              <Graph>
                 <Router>
                   <Routes>
                     <Route
@@ -211,8 +209,6 @@ function ContainerModal({ modal, parameterForm, transactionType, pair }) {
                     />
                   </Routes>
                 </Router>
-              </Graph>
-            </ApolloProvider>
           )}
         </div>
       </div>
