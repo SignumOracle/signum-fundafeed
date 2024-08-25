@@ -14,7 +14,7 @@ export const tellorAddressOpmain = '0xaf8cA653Fa2772d58f4368B0a71980e9E3cEB888'
 export const tellorAddressOptest = '0x3251838bd813fdf6a97D32781e011cce8D225d59'
 export const tellorAddressArbone = '0xd58D345Fd9c82262E087d2D0607624B410D88242'
 export const tellorAddressArbtest = '0x8d1bB5eDdFce08B92dD47c9871d1805211C3Eb3C'
-export const tellorAddressPulsechain = '0x113c82608A84bD47eE90a7A498b2663f3A7B977C'
+export const tellorAddressPulsechain = '0x410a1Cb708e0724d1f9013EE31945E5E3F978a44'
 export const autopayAddressPolygon ='0x11cA06aa780ce89dbBF5D8F5fA8bf6965Be942c9'
 export const autopayAddressMumbai = '0xBfe8B0b5dBB521bdD1CF8E09432B41eD5328619a'
 export const autopayEthMainnet = '0x3b50dEc3CA3d34d5346228D86D29CF679EAA0Ccb'
@@ -27,7 +27,7 @@ export const autopayOpmain = '0x3b50dEc3CA3d34d5346228D86D29CF679EAA0Ccb'
 export const autopayOptest = '0x9BE9B0CFA89Ea800556C6efbA67b455D336db1D0'
 export const autopayArbone = '  0x3b50dEc3CA3d34d5346228D86D29CF679EAA0Ccb'
 export const autopayArbtest = '0x60cBf3991F05a0671250e673Aa166e9D1A0C662E'
-export const autopayPulsechain = '0x48C7A06cb36F6f0d575e083A4e844Ba08890e452'
+export const autopayPulsechain = '0x5CBcA25A8CD90d7b80Ba40a67E40E4D027738743'
 
 
 export const truncateAddr = (addr) => {
