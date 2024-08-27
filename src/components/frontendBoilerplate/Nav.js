@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 //Assets
-import { ReactComponent as Tellor } from '../../assets/signum_logo.svg'
+import signumLogo from '../../assets/signum_logo.png';
 //Components
 import WalletConnect from './WalletConnect'
 //Styles
@@ -17,7 +17,7 @@ function Nav() {
         alt="https://signum.win/"
         rel="noopener noreferrer"
       >
-        <Tellor className="TellorLogo" />
+        <img className="TellorLogo" style={{width: "100px"}} src={signumLogo} alt="Signum Logo" />
       </a>
       {user && user.currentUser ? <WalletConnect nav={true} /> : null}
     </div>
