@@ -17,8 +17,9 @@ function Nav() {
         alt="https://signum.win/"
         rel="noopener noreferrer"
       >
-        <img className="TellorLogo" style={{width: "100px"}} src={signumLogo} alt="Signum Logo" />
+        <img className="TellorLogo" style={{width: "50px"}} src={signumLogo} alt="Signum Logo" />
       </a>
+      <p style={{ color: "#fbc51b", textDecoration: "underline" }}>TEST NETWORK</p>
       {user && user.currentUser ? <WalletConnect nav={true} /> : null}
     </div>
   )

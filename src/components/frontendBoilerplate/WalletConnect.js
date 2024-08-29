@@ -79,7 +79,7 @@ function WalletConnect({ nav }) {
           </div>
         </CustomTooltip>
       ) : (
-        <p>connect wallet</p>
+        <p>Connect Wallet</p>
       )}
     </div>
   )

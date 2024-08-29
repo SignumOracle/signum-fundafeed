@@ -227,7 +227,7 @@ function Hero() {
               border: fundType === 'oneTime' ? '2px solid #fbc51b' : '2px solid #fbc51b50',
             }}
             onClick={() => setFundType('oneTime')}
-          >One time</div>
+          >One Time</div>
           <div 
             className='HeroFundFeed'
             style={{

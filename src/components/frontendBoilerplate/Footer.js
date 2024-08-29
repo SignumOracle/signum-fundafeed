@@ -19,17 +19,7 @@ const links = [
 function Footer() {
   return (
     <div className="Footer">
-      <p className="FooterText">&copy; 2024 Signum, Inc.</p>
-
-      <nav className="FooterNav">
-        {links.map((link, i) => 
-          {
-            return <a href={link.link} target="_blank" rel="noreferrer" key={`link-${link.title}-${i}`}>
-              {link.title}
-            </a>
-          }
-        )}
-      </nav>
+      <p className="FooterText">&copy; 2024 SIGNUM</p>
     </div>
   )
 }

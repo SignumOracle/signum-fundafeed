@@ -7,7 +7,7 @@ export default function HowItWorks() {
       <h1 className="subtitle2l"> *Active Networks:<br></br> <span className="subtitle2w">Pulsechain </span></h1>
       <h1 className="title">How It Works</h1>
       <div className='mainText' >
-       Fund any price-feed to get reported to the Signum oracle by filling out the fields on the right-hand side of the page. Once completed, reporters will race to pick up the rewards and report the price data as specified.
+       Fund any price-feed to get reported to the SIGNUM Oracle by filling out the fields on the right-hand side of the page. Once completed, reporters will race to pick up the rewards and report the price data as specified.
           <br></br>
           <br></br>
           <div className="subtitle2">Before requesting a feed: </div> 
@@ -22,7 +22,7 @@ export default function HowItWorks() {
            <br></br>
           -Users of the requested data will want to integrate Signum into their code using the corresponding{' '}
           <a 
-            href=""
+            href="https://testquery.signum.run/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -38,22 +38,22 @@ export default function HowItWorks() {
           <br></br>
           <p className='mainText' >Still have questions? Join our{' '}
             <a 
-              href=""
+              href="https://t.me/GoSignum"
               target="_blank"
               rel="noopener noreferrer"
             >
-            Discord!
+            Telegram!
             </a>
           </p>
         </div>
       </div>
      
         <div className='infoContainer'>
-          <a className='infoLink' target="_blank" rel="noreferrer" href="">
+          <a className='infoLink' target="_blank" rel="noreferrer" href="https://docs.signum.run">
             <button className='infoButtons'>Docs</button>
           </a>
-          <a className='infoLink' target="_blank" rel="noreferrer" href="">
-            <button className='infoButtons'>Discord</button>
+          <a className='infoLink' target="_blank" rel="noreferrer" href="https://x.com/SignumOracle">
+            <button className='infoButtons'>X</button>
           </a>
         </div>
     </div>
