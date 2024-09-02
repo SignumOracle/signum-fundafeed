@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed">
+  <a href="https://github.com/SignumOracle/signum-fundafeed">
     <img src="/public/favicon.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,9 +38,9 @@
     This project allows users to interact with the Signum Autopay contract, so that data users can more easily set up a consistent stream of incentives/rewards for reporters who consistently provide the desired data. 
     <br />
     <br />
-    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues">Report Bug</a>
+    <a href="https://github.com/SignumOracle/signum-fundafeed/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues">Request Feature</a>
+    <a href="https://github.com/SignumOracle/signum-fundafeed/issues">Request Feature</a>
   </p>
 </p>
 
@@ -109,7 +109,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo in your preferred directory
    ```sh
-   git clone https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed.git
+   git clone https://github.com/SignumOracle/signum-fundafeed.git
    ```
 2. Install NPM packages
    ```sh
@@ -132,7 +132,7 @@ To get a local copy up and running follow these simple steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SignumOracle/signum-fundafeed/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -167,14 +167,14 @@ Signum.win
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
-[contributors-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
-[forks-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/network/members
-[stars-shield]: https://img.shields.io/github/stars/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
-[stars-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
-[issues-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/issues
-[license-shield]: https://img.shields.io/github/license/AvantgardeBlockchainSolutions/signum-fundafeed.svg?style=for-the-badge
-[license-url]: https://github.com/AvantgardeBlockchainSolutions/signum-fundafeed/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/SignumOracle/signum-fundafeed.svg?style=for-the-badge
+[contributors-url]: https://github.com/SignumOracle/signum-fundafeed/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SignumOracle/signum-fundafeed.svg?style=for-the-badge
+[forks-url]: https://github.com/SignumOracle/signum-fundafeed/network/members
+[stars-shield]: https://img.shields.io/github/stars/SignumOracle/signum-fundafeed.svg?style=for-the-badge
+[stars-url]: https://github.com/SignumOracle/signum-fundafeed/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SignumOracle/signum-fundafeed.svg?style=for-the-badge
+[issues-url]: https://github.com/SignumOracle/signum-fundafeed/issues
+[license-shield]: https://img.shields.io/github/license/SignumOracle/signum-fundafeed.svg?style=for-the-badge
+[license-url]: https://github.com/SignumOracle/signum-fundafeed/blob/main/LICENSE.txt
 [screenshot]: https://user-images.githubusercontent.com/21370350/165884467-2fbc0346-3282-4837-aa98-90ff5307aea0.png
