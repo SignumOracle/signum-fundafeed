@@ -67,11 +67,11 @@ function FundFeedModal({ parameterForm, autopayAddy, thisFeedId, thisQueryId }) 
       <div className="VerifyParametersFund">
         <p>
           Total Fund Amount:{' '}
-          <span className="bolded">{`${parameterForm.fundAmount} SRB`}</span>
+          <span className="bolded">{`${parameterForm.fundAmount} STT`}</span>
         </p>
         <p>
           Tip Amount:{' '}
-          <span className="bolded">{`${parameterForm.tipAmountDecimal} SRB`}</span>
+          <span className="bolded">{`${parameterForm.tipAmountDecimal} STT`}</span>
         </p>
         <p>
           Window:{' '}
@@ -106,7 +106,7 @@ function FundFeedModal({ parameterForm, autopayAddy, thisFeedId, thisQueryId }) 
         Now verify your funding amount and fund your feed:
       </h4>
       <div className="VerifyFundParameter">
-        <p>{`${parameterForm.fundAmount} SRB`}</p>
+        <p>{`${parameterForm.fundAmount} STT`}</p>
       </div>
       {
         user.currentUser && user.currentUser.balances.trb && user.currentUser.balances.trb >= parameterForm.fundAmount ?

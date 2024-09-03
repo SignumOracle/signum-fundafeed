@@ -69,7 +69,7 @@ function OneTimeTipModal({
       <div className="VerifyParameters">
         <p>
           Tip Amount:{' '}
-          <span className="bolded">{`${parameterForm.fundAmount} SRB`}</span>
+          <span className="bolded">{`${parameterForm.fundAmount} STT`}</span>
           <br />
           Pair:{' '}
           <span className="bolded">{pair}</span>

@@ -121,11 +121,11 @@ function ApproveTokenModal({
       <div className="VerifyParametersApprove">
         <p>
           Total Fund Amount:{' '}
-          <span className="bolded">{`${parameterForm.fundAmount} SRB`}</span>
+          <span className="bolded">{`${parameterForm.fundAmount} STT`}</span>
         </p>
         <p>
           Tip Amount:{' '}
-          <span className="bolded">{`${parameterForm.tipAmountDecimal} SRB`}</span>
+          <span className="bolded">{`${parameterForm.tipAmountDecimal} STT`}</span>
         </p>
         <p>
           Window:{' '}
@@ -155,7 +155,7 @@ function ApproveTokenModal({
         </a>*/}
         <p className="ApproveMessage">
           <span className="bolded">
-            Now approve your autopay data feed to use SRB for tipping.
+            Now approve your autopay data feed to use STT for tipping.
           </span>
         </p>
       </div>

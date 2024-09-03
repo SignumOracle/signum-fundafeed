@@ -256,7 +256,7 @@ function Hero() {
                 value={parameterForm.fundAmount}
                 onChange={handleParameterChange}
               />{' '}
-              SRB to fund your feed,
+              STT to fund your feed,
               <hr />
               this feed will reward reporters  (
           
@@ -269,7 +269,7 @@ function Hero() {
                 value={parameterForm.tipAmountDecimal}
                 onChange={validateParameterChangeTrb}
               />)
-              SRB, every{' '}
+              STT, every{' '}
               <input
                 type="number" required
                 className="HeroParameterFeedNumberInputLarge"
@@ -399,7 +399,7 @@ function Hero() {
                 name="rewardIncreasePerSecond"
                 value={parameterForm.rewardIncreasePerSecond}
                 onChange={handleParameterChange}
-              /> SRB / per second) ple
+              /> STT / per second) ple
               until a value is mined.
               <hr />
             </div>
@@ -421,7 +421,7 @@ function Hero() {
                 paddingBottom: '1em',
                 marginTop: '1em',
               }}
-            >Amount of SRB to fund your feed</h3>
+            >Amount of STT to fund your feed</h3>
 
             <br />
             <input

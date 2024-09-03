@@ -127,7 +127,7 @@ function ApproveOneTimeTipTokenModal({
         </p>
         <p className="ApproveMessage">
           <span className="bolded">
-            Now approve your autopay data feed to use SRB for tipping.
+            Now approve your autopay data feed to use STT for tipping.
           </span>
         </p>
       </div>

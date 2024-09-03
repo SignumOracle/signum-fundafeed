@@ -13,7 +13,7 @@ export default function HowItWorks() {
           <div className="subtitle2">Before requesting a feed: </div> 
           -Confirm the price you are requesting is currently supported 
           <a
-            href="https://github.com/AvantgardeBlockchainSolutions/signum-feeds/tree/main/src/telliot_feeds/feeds"
+            href="https://github.com/SignumOracle/signum-feeds/tree/main/src/telliot_feeds/feeds"
             target="_blank"
             rel="noopener noreferrer"
             > here
